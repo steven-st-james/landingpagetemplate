@@ -1,0 +1,29 @@
+{
+  "name": "landing-page-template",
+  "description": "This is a template for building agency landing pages. It uses bootstrap with SASS. Its powered by gulp, npm and bower. Make sure node.js is installed on your machine. Please fork and start your own project",
+  "main": "app.js",
+  "authors": [
+    "Steve Brown"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Template",
+    "for",
+    "Landing",
+    "Page"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
